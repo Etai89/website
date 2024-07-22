@@ -1,0 +1,55 @@
+#header1{
+    color: #28195e;
+    text-align: center;
+}
+html{
+    background-color: rgb(241, 230, 216);
+    /* background-image: url(pics/CRYPTO_background.jpeg);
+    background-size: 100%; */
+}
+
+#front_pic{
+    padding: 10px;
+    text-align: center;
+}
+#text1{
+    text-align: right;
+    padding: 20px;
+}
+#table1{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(207, 248, 199);
+    color: #1c1d0b;
+}
+
+td{
+    padding: 20px;
+
+}
+#head_div{
+    background-color: #f1d37e;
+    margin: 20px;
+    float: right;
+    width: 60%;
+    height: 160%;
+    padding: 20px
+
+}
+#logo_div{
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    width: 20%;
+    height: 160%;
+    background-color: rgb(234, 252, 131);
+}
+
+/* Login page */
+
+#div1{
+    text-align: center;
+    margin: 10%;
+    padding: 5px;
+    background-color: #f1d37e;
+}
